@@ -10,7 +10,7 @@ public class AboutService {
         return new About(
                 "Nicolás Volponi",
                 "Técnico en Programación",
-                "Técnico en Programación con más de un año y medio de experiencia en el ámbito tecnológico, participando en la implementación, mantenimiento y coordinación de proyectos digitales. Actualmente cursando una Diplomatura en Inteligencia Artificial. Me caracterizo por mi compromiso, proactividad y buena comunicación con clientes."
+                "Técnico en Programación con más de dos años de experiencia en el ámbito tecnológico, participando en la implementación, mantenimiento y coordinación de proyectos digitales. Actualmente cursando una Diplomatura en Inteligencia Artificial. Me caracterizo por mi compromiso, proactividad y buena comunicación con clientes."
         );
     }
 }
