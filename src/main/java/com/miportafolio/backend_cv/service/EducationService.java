@@ -11,10 +11,16 @@ public class EducationService {
     public List<Education> getEducation() {
         return List.of(
                 new Education(
+                        "Diseño e implementación de agentes de IA low code/no code",
+                        "Universidad de Buenos Aires – Laboratorio de Innovación e Inteligencia Artificial",
+                        "2025",
+                        "2026"
+                ),
+                new Education(
                         "Diplomatura en Inteligencia Artificial",
                         "Universidad Tecnológica Nacional",
                         "2025",
-                        "Actualidad",
+                        "2026",
                         "https://backend-cv-7nm4.onrender.com/images/diploma-diploIA.pdf"
                 ),
                 new Education(
