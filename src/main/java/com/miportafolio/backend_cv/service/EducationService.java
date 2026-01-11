@@ -12,7 +12,7 @@ public class EducationService {
         return List.of(
                 new Education(
                         "Diseño e implementación de agentes de IA low code/no code",
-                        "UBA + IALAB",
+                        "Universidad de Buenos Aires – Laboratorio de Innovación e Inteligencia Artificial",
                         "2025",
                         "2026"
                 ),
