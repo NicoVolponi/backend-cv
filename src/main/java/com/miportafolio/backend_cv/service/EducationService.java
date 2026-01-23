@@ -11,6 +11,13 @@ public class EducationService {
     public List<Education> getEducation() {
         return List.of(
                 new Education(
+                        "Licenciatura en Tecnología de la Información",
+                        "Universidad de Palermo",
+                        "2026",
+                        "Actualidad",
+                        ""
+),
+                new Education(
                         "Diseño e implementación de agentes de IA low code/no code",
                         "Universidad de Buenos Aires – Laboratorio de Innovación e Inteligencia Artificial",
                         "2025",
