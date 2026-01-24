@@ -23,7 +23,7 @@ public class AboutService {
                 """,
                 List.of(
                         "Salesforce Commerce Cloud",
-                        "Desarrollo Full Stack enfocado en producto y experiencia",
+                        "Full Stack con foco en producto y UX",
                         "Gestión técnica de proyectos digitales"
                 ),
                 "NV"
