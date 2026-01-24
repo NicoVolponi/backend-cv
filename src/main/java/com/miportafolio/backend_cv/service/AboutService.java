@@ -22,7 +22,7 @@ public class AboutService {
                 combinando código, criterio funcional y experiencia de usuario.
                 """,
                 List.of(
-                        "Salesforce Commerce Cloud: Kiehl’s y Lancôme Argentina y Kérastase Chile",
+                        "Salesforce Commerce Cloud",
                         "Desarrollo Full Stack enfocado en producto y experiencia",
                         "Gestión técnica de proyectos digitales"
                 ),
