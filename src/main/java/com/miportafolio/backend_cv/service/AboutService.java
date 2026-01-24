@@ -22,8 +22,8 @@ public class AboutService {
                 combinando código, criterio funcional y experiencia de usuario.
                 """,
                 List.of(
-                        "Salesforce Commerce Cloud",
-                        "Full Stack con foco en producto y UX",
+                        "Digital commerce",
+                        "Tech & product",
                         "Gestión técnica de proyectos digitales"
                 ),
                 "NV"
