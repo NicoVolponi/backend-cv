@@ -12,7 +12,7 @@ public class AboutService {
         return new About(
                 "Nicolás Volponi",
                 "Técnico en Programación",
-                "Perfil híbrido técnico–funcional orientado a desarrollo y gestión de proyectos digitales.",
+                "Full Stack Developer & Account Manager",
                 """
                 Actualmente trabajo en proyectos de Salesforce Commerce Cloud para Kiehl’s Argentina,
                 Lancôme Argentina y Kérastase Chile, participando en la implementación técnica
