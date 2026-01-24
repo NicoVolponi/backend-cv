@@ -19,7 +19,7 @@ public class ExperienceService {
                 new Experience(
                         "Desarrollador Web Freelance",
                         "Freelance",
-                        "2024 - Actualidad",
+                        "2025 - Actualidad",
                         "Desarrollo y mejora de sitios web y aplicaciones, adaptando la solución según las necesidades del proyecto. Implementación mediante distintas plataformas y herramientas, así como desarrollo a medida con código. Enfoque en experiencia de usuario (UX), estructura, rendimiento y funcionalidades del sitio."
                 )
         );
