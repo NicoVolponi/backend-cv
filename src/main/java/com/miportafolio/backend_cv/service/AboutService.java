@@ -3,6 +3,8 @@ package com.miportafolio.backend_cv.service;
 import com.miportafolio.backend_cv.model.About;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class AboutService {
 
@@ -10,13 +12,21 @@ public class AboutService {
         return new About(
                 "Nicolás Volponi",
                 "Técnico en Programación",
+                "Perfil híbrido técnico–funcional orientado a desarrollo y gestión de proyectos digitales.",
                 """
-                Técnico en Programación con un perfil híbrido que combina desarrollo, gestión y comunicación con clientes.
-                Actualmente participo en proyectos de Salesforce Commerce Cloud, trabajando tanto en la implementación técnica
-                como en la coordinación con equipos y marcas.
-                Me encuentro ampliando mi formación en Inteligencia Artificial y Tecnologías de la Información, con interés
-                en crear soluciones innovadoras y escalables.
-                """
+                Actualmente trabajo en proyectos de Salesforce Commerce Cloud para Kiehl’s Argentina,
+                Lancôme Argentina y Kérastase Chile, participando en la implementación técnica
+                y en la coordinación de los desarrollos con los equipos de cada marca.
+
+                Me enfoco en crear soluciones claras, escalables y alineadas al negocio,
+                combinando código, criterio funcional y experiencia de usuario.
+                """,
+                List.of(
+                        "Salesforce Commerce Cloud: Kiehl’s AR, Lancôme AR, Kérastase CL",
+                        "Desarrollo full stack con Java, Spring Boot y React",
+                        "Gestión técnico–funcional de proyectos digitales"
+                ),
+                "NV"
         );
     }
 }
